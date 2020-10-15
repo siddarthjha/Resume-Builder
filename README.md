@@ -3,23 +3,23 @@ Resume Builder is an Android App written in Java. This App is for resume edition
 
 ### Main Activity
 
-![main empty](https://github.com/siddarthjha/Resume-Builder/blob/master/screenshot/main_empty.png)
+![main empty](https://github.com/siddarthjha/Resume-Builder/blob/main/screenshot/main_empty.png)
 
 ### Launching Activity
 
 
 - Basic Information
 
-![basic info](https://github.com/siddarthjha/Resume-Builder/blob/master/screenshot/basicInfo.png)
+![basic info](https://github.com/siddarthjha/Resume-Builder/blob/main/screenshot/basicInfo.png)
 
 -  Education
 
-![education](https://github.com/siddarthjha/Resume-Builder/blob/master/screenshot/education.png)
+![education](https://github.com/siddarthjha/Resume-Builder/blob/main/screenshot/education.png)
 
 - Experience
 
-![experience](https://github.com/siddarthjha/Resume-Builder/blob/master/screenshot/experience.png)
+![experience](https://github.com/siddarthjha/Resume-Builder/blob/main/screenshot/experience.png)
 
 - Project
 
-![project](https://github.com/siddarthjha/Resume-Builder/blob/master/screenshot/project.png)
+![project](https://github.com/siddarthjha/Resume-Builder/blob/main/screenshot/project.png)
